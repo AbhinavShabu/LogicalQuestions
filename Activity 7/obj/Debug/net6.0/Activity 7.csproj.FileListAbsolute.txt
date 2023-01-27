@@ -1,0 +1,15 @@
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\bin\Debug\net6.0\Activity 7.exe
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\bin\Debug\net6.0\Activity 7.deps.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\bin\Debug\net6.0\Activity 7.runtimeconfig.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\bin\Debug\net6.0\Activity 7.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\bin\Debug\net6.0\Activity 7.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.csproj.AssemblyReference.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.AssemblyInfoInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.AssemblyInfo.cs
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.csproj.CoreCompileInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\refint\Activity 7.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\Activity 7.genruntimeconfig.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity 7\obj\Debug\net6.0\ref\Activity 7.dll
