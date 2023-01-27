@@ -1,0 +1,15 @@
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\bin\Debug\net6.0\Activity9.exe
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\bin\Debug\net6.0\Activity9.deps.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\bin\Debug\net6.0\Activity9.runtimeconfig.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\bin\Debug\net6.0\Activity9.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\bin\Debug\net6.0\Activity9.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.csproj.AssemblyReference.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.AssemblyInfoInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.AssemblyInfo.cs
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.csproj.CoreCompileInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\refint\Activity9.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\Activity9.genruntimeconfig.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity9\obj\Debug\net6.0\ref\Activity9.dll
