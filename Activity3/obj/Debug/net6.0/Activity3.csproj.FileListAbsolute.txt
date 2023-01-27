@@ -1,0 +1,15 @@
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\bin\Debug\net6.0\Activity3.exe
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\bin\Debug\net6.0\Activity3.deps.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\bin\Debug\net6.0\Activity3.runtimeconfig.json
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\bin\Debug\net6.0\Activity3.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\bin\Debug\net6.0\Activity3.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.csproj.AssemblyReference.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.AssemblyInfoInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.AssemblyInfo.cs
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.csproj.CoreCompileInputs.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\refint\Activity3.dll
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.pdb
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\Activity3.genruntimeconfig.cache
+C:\Users\abhinav.shabu\source\repos\Logical\Activity3\obj\Debug\net6.0\ref\Activity3.dll
